@@ -20,3 +20,11 @@ The repository adheres to the suggested folder structure:
    ```bash
    git clone https://github.com/[yourusername]/predicting-price-moves.git
    cd predicting-price-moves
+2, Set Up Virtual Environment:
+"python -m venv venv"
+3, Install Dependencies :
+" pip install -r requirements.txt "
+4, Run the Notebook:
+Open notebooks/task_eda.ipynb in VS Code or Jupyter.
+Select the virtual environment interpreter (e.g., Python: Select Interpreter in VS Code).
+Execute cells to reproduce the EDA visualizations.
