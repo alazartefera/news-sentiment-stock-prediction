@@ -1,4 +1,4 @@
-# Predicting Price Moves with News Sentiment - Week 1 Challenge
+# Predicting Price Moves with News Sentiment - Week 1 Challenge..
 
 ## Overview
 This repository contains the interim work for the **10 Academy: Artificial Intelligence Mastery - Week 1 Challenge**, titled "Predicting Price Moves with News Sentiment." The project, developed for Nova Financial Solutions, aims to analyze the FNSPID (Financial News and Stock Price Integration Dataset) to derive sentiment scores from news headlines and correlate them with stock price movements. This submission focuses on Exploratory Data Analysis (EDA) under Task 1, with initial steps toward Task 2 (quantitative analysis), as part of the interim report due on May 30, 2025.
